@@ -1,1 +1,1 @@
-Thinh Test
+Thinh Test CI
